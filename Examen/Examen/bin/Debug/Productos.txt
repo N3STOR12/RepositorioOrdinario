@@ -1,0 +1,9 @@
+Producto: Iphone
+Cantidad: 13
+Precio: $1,300.00 
+Producto: Laptop
+Cantidad: 45
+Precio: $14,000.00 
+Producto: Ropa
+Cantidad: 45
+Precio: $300.00 
